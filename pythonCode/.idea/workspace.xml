@@ -1,0 +1,922 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="10f8637b-4d43-46e7-9535-643461c7b8e0" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/case/frist_ddt_case.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="12" column="8" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+              <folding>
+                <element signature="e#57#67#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/util/excel_util.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+              <folding>
+                <element signature="e#26#37#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/util/read_inl.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/util/ShowapiRequest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/case/keyword_case.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="62" column="42" lean-forward="true" selection-start-line="62" selection-start-column="42" selection-end-line="62" selection-end-column="42" />
+              <folding>
+                <element signature="e#55#92#0" expanded="true" />
+                <element signature="e#470#506#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/case/first_case.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="86" column="57" lean-forward="true" selection-start-line="86" selection-start-column="57" selection-end-line="86" selection-end-column="57" />
+              <folding>
+                <element signature="e#34#44#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/case/data_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="19" column="19" lean-forward="true" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+              <folding>
+                <element signature="e#14#24#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/util/get_code.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>code</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/untitled/Tuhu_Merchant_Test" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/test01.py" />
+        <option value="$USER_HOME$/Desktop/test_lib.py" />
+        <option value="$PROJECT_DIR$/HTMLTestrunner.py" />
+        <option value="$PROJECT_DIR$/unittest01.py" />
+        <option value="$PROJECT_DIR$/demo.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/test02.py" />
+        <option value="$PROJECT_DIR$/test/code01.py" />
+        <option value="$PROJECT_DIR$/SeleniumTest/resister_code.py" />
+        <option value="$PROJECT_DIR$/venv/Lib/site-packages/pytesseract/pytesseract.py" />
+        <option value="$PROJECT_DIR$/SeleniumTest/util.py" />
+        <option value="$PROJECT_DIR$/SeleniumTest/_init_.py" />
+        <option value="$PROJECT_DIR$/util/find_element.py" />
+        <option value="$PROJECT_DIR$/SeleniumTest/__init__.py" />
+        <option value="$PROJECT_DIR$/SeleniumTest/register_function.py" />
+        <option value="$PROJECT_DIR$/case/handle.py" />
+        <option value="$PROJECT_DIR$/handle/handle.py" />
+        <option value="$PROJECT_DIR$/SeleniumTest/LocalElement.inl" />
+        <option value="$USER_HOME$/Documents/Tencent Files/977089471/FileRecv/test_Math.py" />
+        <option value="$USER_HOME$/Documents/Tencent Files/977089471/FileRecv/calculator.py" />
+        <option value="$PROJECT_DIR$/handle/__init__.py" />
+        <option value="$PROJECT_DIR$/case/__init__.py" />
+        <option value="$PROJECT_DIR$/page/register_page.py" />
+        <option value="$PROJECT_DIR$/case/unttest_case.py" />
+        <option value="$PROJECT_DIR$/SeleniumTest/read_inl.py" />
+        <option value="$PROJECT_DIR$/case/run_case.py" />
+        <option value="$PROJECT_DIR$/case/unttest_case01.py" />
+        <option value="$PROJECT_DIR$/report/first_case.html" />
+        <option value="$PROJECT_DIR$/SeleniumTest/register_code.py" />
+        <option value="$PROJECT_DIR$/case/data_code.py" />
+        <option value="$PROJECT_DIR$/case/data_test.py" />
+        <option value="$PROJECT_DIR$/util/get_code.py" />
+        <option value="$PROJECT_DIR$/handle/register_handle.py" />
+        <option value="$PROJECT_DIR$/util/read_inl.py" />
+        <option value="$PROJECT_DIR$/keyword/actionMethod.py" />
+        <option value="$PROJECT_DIR$/base/find_element.py" />
+        <option value="$PROJECT_DIR$/SeleniumTest/demo01.py" />
+        <option value="$PROJECT_DIR$/venv/Lib/site-packages/xlwt/Row.py" />
+        <option value="$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/unittest/suite.py" />
+        <option value="$PROJECT_DIR$/util/excel_util.py" />
+        <option value="$PROJECT_DIR$/business/resister_business.py" />
+        <option value="$PROJECT_DIR$/log/logs/2019-08-16.log" />
+        <option value="$PROJECT_DIR$/case/first_case.py" />
+        <option value="$PROJECT_DIR$/SeleniumTest/read_image.py" />
+        <option value="$PROJECT_DIR$/congif/LocalElement.inl" />
+        <option value="$PROJECT_DIR$/case/frist_ddt_case.py" />
+        <option value="$PROJECT_DIR$/log/user_log.py" />
+        <option value="$PROJECT_DIR$/keywordSelenium/actionMethod.py" />
+        <option value="$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/HTMLTestrunner.py" />
+        <option value="$PROJECT_DIR$/case/keyword_case.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-11" />
+    <option name="y" value="-11" />
+    <option name="width" value="933" />
+    <option name="height" value="1032" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="pythonCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pythonCode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pythonCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pythonCode" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pythonCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pythonCode" type="462c0819:PsiDirectoryNode" />
+              <item name="business" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pythonCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pythonCode" type="462c0819:PsiDirectoryNode" />
+              <item name="case" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pythonCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pythonCode" type="462c0819:PsiDirectoryNode" />
+              <item name="congif" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pythonCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pythonCode" type="462c0819:PsiDirectoryNode" />
+              <item name="handle" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pythonCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pythonCode" type="462c0819:PsiDirectoryNode" />
+              <item name="keywordSelenium" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pythonCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pythonCode" type="462c0819:PsiDirectoryNode" />
+              <item name="log" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pythonCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pythonCode" type="462c0819:PsiDirectoryNode" />
+              <item name="log" type="462c0819:PsiDirectoryNode" />
+              <item name="logs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pythonCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pythonCode" type="462c0819:PsiDirectoryNode" />
+              <item name="page" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pythonCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pythonCode" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../gitCode/Tuhu_Merchant_Test" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\pythonCode\congif" />
+      <recent name="D:\pythonCode\util" />
+      <recent name="D:\pythonCode\base" />
+      <recent name="D:\pythonCode\handle" />
+      <recent name="D:\pythonCode\test\testCode" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\pythonCode" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.frist_ddt_case">
+    <configuration name="frist_ddt_case" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pythonCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/case/frist_ddt_case.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="keyword_case" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pythonCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/case/keyword_case.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="user_log" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pythonCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/log" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/log/user_log.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.frist_ddt_case" />
+        <item itemvalue="Python.keyword_case" />
+        <item itemvalue="Python.user_log" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="10f8637b-4d43-46e7-9535-643461c7b8e0" name="Default Changelist" comment="" />
+      <created>1562057331584</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562057331584</updated>
+      <workItem from="1562057333978" duration="45000" />
+      <workItem from="1562060697733" duration="3197000" />
+      <workItem from="1562145451023" duration="5169000" />
+      <workItem from="1562322127683" duration="637000" />
+      <workItem from="1562548544231" duration="3228000" />
+      <workItem from="1562815716374" duration="7011000" />
+      <workItem from="1562832122286" duration="5300000" />
+      <workItem from="1562897176246" duration="6067000" />
+      <workItem from="1563156366254" duration="12759000" />
+      <workItem from="1563344343027" duration="2584000" />
+      <workItem from="1563418253664" duration="1530000" />
+      <workItem from="1563500996582" duration="8678000" />
+      <workItem from="1563758874527" duration="18221000" />
+      <workItem from="1563845026127" duration="11035000" />
+      <workItem from="1563865414519" duration="9478000" />
+      <workItem from="1563932416989" duration="43354000" />
+      <workItem from="1564109245546" duration="8845000" />
+      <workItem from="1564131783529" duration="4811000" />
+      <workItem from="1564365997293" duration="7824000" />
+      <workItem from="1564453149580" duration="23021000" />
+      <workItem from="1564537079867" duration="18475000" />
+      <workItem from="1564625440174" duration="5786000" />
+      <workItem from="1564647774711" duration="513000" />
+      <workItem from="1564648565976" duration="6730000" />
+      <workItem from="1564716732698" duration="11587000" />
+      <workItem from="1564970090085" duration="11308000" />
+      <workItem from="1565056885077" duration="12550000" />
+      <workItem from="1565145843553" duration="31954000" />
+      <workItem from="1565317596290" duration="11402000" />
+      <workItem from="1565573975533" duration="8447000" />
+      <workItem from="1565661207602" duration="9123000" />
+      <workItem from="1565750477721" duration="8033000" />
+      <workItem from="1565851506261" duration="3687000" />
+      <workItem from="1565859943139" duration="58000" />
+      <workItem from="1565860050565" duration="6523000" />
+      <workItem from="1565922050338" duration="7064000" />
+      <workItem from="1566179875027" duration="2957000" />
+      <workItem from="1566185009083" duration="2121000" />
+      <workItem from="1566209190924" duration="262000" />
+      <workItem from="1566264684464" duration="5644000" />
+      <workItem from="1566351313845" duration="2722000" />
+      <workItem from="1566437217582" duration="2190000" />
+      <workItem from="1566786219663" duration="3046000" />
+      <workItem from="1566956044641" duration="3045000" />
+      <workItem from="1567064652019" duration="605000" />
+      <workItem from="1567134032808" duration="599000" />
+      <workItem from="1567395422768" duration="5670000" />
+      <workItem from="1567475870966" duration="1253000" />
+      <workItem from="1567561707964" duration="3253000" />
+      <workItem from="1567646634906" duration="1441000" />
+      <workItem from="1567737485823" duration="599000" />
+      <workItem from="1567994393935" duration="646000" />
+      <workItem from="1568187682928" duration="556000" />
+      <workItem from="1569396147114" duration="567000" />
+      <workItem from="1570586632996" duration="6011000" />
+      <workItem from="1571023043727" duration="2000" />
+      <workItem from="1571023568019" duration="2000" />
+      <workItem from="1571023714297" duration="7868000" />
+      <workItem from="1571621740201" duration="1932000" />
+      <workItem from="1571988270044" duration="599000" />
+      <workItem from="1572249459836" duration="7399000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_first_case_py - 2019.08.01 at 17h 04m 05s.xml">
+      <configuration name="Unittests in first_case.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_data_test_DataTest - 2019.08.06 at 11h 12m 24s.xml">
+      <configuration name="Unittests for data_test.DataTest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_data_test_DataTest_test_add - 2019.08.06 at 11h 13m 49s.xml">
+      <configuration name="Unittests for data_test.DataTest.test_add" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_frist_ddt_case_py - 2019.08.06 at 15h 31m 20s.xml">
+      <configuration name="Unittests in frist_ddt_case.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_frist_ddt_case_py - 2019.08.06 at 15h 33m 46s.xml">
+      <configuration name="Unittests in frist_ddt_case.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_frist_ddt_case_py - 2019.08.06 at 15h 40m 27s.xml">
+      <configuration name="Unittests in frist_ddt_case.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_frist_ddt_case_py - 2019.08.06 at 15h 48m 24s.xml">
+      <configuration name="Unittests in frist_ddt_case.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_frist_ddt_case_py - 2019.08.06 at 15h 53m 33s.xml">
+      <configuration name="Unittests in frist_ddt_case.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_frist_ddt_case_py - 2019.08.15 at 17h 42m 50s.xml">
+      <configuration name="Unittests in frist_ddt_case.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_frist_ddt_case_FirstDdtCase - 2019.11.08 at 10h 05m 25s.xml">
+      <configuration name="Unittests for frist_ddt_case.FirstDdtCase" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="397023000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19401778" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.13499112" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4981884" visible="true" weight="0.20248668" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.46536413" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3285968" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5018116" side_tool="true" weight="0.32194245" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.3280142" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="13" weight="0.3291367" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/pythonCode$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1564109411156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SeleniumTest" />
+    <SUITE FILE_PATH="coverage/pythonCode$Unittests_for_first_case_FirstCase.coverage" NAME="Unittests for first_case.FirstCase Coverage Results" MODIFIED="1565859575431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/pythonCode$data_test.coverage" NAME="data_test Coverage Results" MODIFIED="1570586940753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/pythonCode$Unittests_for_test01_MyTest_test_something.coverage" NAME="Unittests for test01.MyTest.test_something Coverage Results" MODIFIED="1562839067211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonCode$read_image.coverage" NAME="read_image Coverage Results" MODIFIED="1567569060424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SeleniumTest" />
+    <SUITE FILE_PATH="coverage/pythonCode$find_element.coverage" NAME="find_element Coverage Results" MODIFIED="1564018080456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util" />
+    <SUITE FILE_PATH="coverage/pythonCode$Unittests_for_test01_TestCasel.coverage" NAME="Unittests for test01.TestCasel Coverage Results" MODIFIED="1562840596679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonCode$excel_util.coverage" NAME="excel_util Coverage Results" MODIFIED="1565864416348" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util" />
+    <SUITE FILE_PATH="coverage/pythonCode$test02.coverage" NAME="test02 Coverage Results" MODIFIED="1563418307598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonCode$Unittests_for_unttest_case_FirstCase01_testfirst01.coverage" NAME="Unittests for unttest_case.FirstCase01.testfirst01 Coverage Results" MODIFIED="1564561366445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/pythonCode$register_code.coverage" NAME="register_code Coverage Results" MODIFIED="1564997023816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SeleniumTest" />
+    <SUITE FILE_PATH="coverage/pythonCode$Unittests_for_unttest_case01_FirstCase02_testfirst003.coverage" NAME="Unittests for unttest_case01.FirstCase02.testfirst003 Coverage Results" MODIFIED="1564648884784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/pythonCode$frist_ddt_case.coverage" NAME="frist_ddt_case Coverage Results" MODIFIED="1573199291239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/pythonCode$read_inl.coverage" NAME="read_inl Coverage Results" MODIFIED="1564538284087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SeleniumTest" />
+    <SUITE FILE_PATH="coverage/pythonCode$Unittests_for_first_case_FirstCase_test_login_secces.coverage" NAME="Unittests for first_case.FirstCase.test_login_secces Coverage Results" MODIFIED="1564649506680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/pythonCode$Unittests_for_unittest01_TestMethod.coverage" NAME="Unittests for unittest01.TestMethod Coverage Results" MODIFIED="1563182310227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonCode$Unittests_in_first_case_py.coverage" NAME="Unittests in first_case.py Coverage Results" MODIFIED="1564650178317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/pythonCode$register_page.coverage" NAME="register_page Coverage Results" MODIFIED="1564484187158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/page" />
+    <SUITE FILE_PATH="coverage/pythonCode$get_code.coverage" NAME="get_code Coverage Results" MODIFIED="1564995441442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util" />
+    <SUITE FILE_PATH="coverage/pythonCode$register_function.coverage" NAME="register_function Coverage Results" MODIFIED="1565254525059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SeleniumTest" />
+    <SUITE FILE_PATH="coverage/pythonCode$demo01.coverage" NAME="demo01 Coverage Results" MODIFIED="1570587265965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SeleniumTest" />
+    <SUITE FILE_PATH="coverage/pythonCode$first_case.coverage" NAME="first_case Coverage Results" MODIFIED="1571023923349" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/pythonCode$Unittests_for_frist_ddt_case_FirstDdtCase.coverage" NAME="Unittests for frist_ddt_case.FirstDdtCase Coverage Results" MODIFIED="1573178716434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/pythonCode$Unittests_in_run_case_py.coverage" NAME="Unittests in run_case.py Coverage Results" MODIFIED="1564648866870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/pythonCode$user_log.coverage" NAME="user_log Coverage Results" MODIFIED="1573181666046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/log" />
+    <SUITE FILE_PATH="coverage/pythonCode$Unittests_for_unttest_case_FirstCase01_testfirst3.coverage" NAME="Unittests for unttest_case.FirstCase01.testfirst3 Coverage Results" MODIFIED="1564561623288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/pythonCode$Unittests_for_run_case_RunCase_test_case01.coverage" NAME="Unittests for run_case.RunCase.test_case01 Coverage Results" MODIFIED="1564570749508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/pythonCode$test_Math.coverage" NAME="test_Math Coverage Results" MODIFIED="1564478189053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Documents/Tencent Files/977089471/FileRecv" />
+    <SUITE FILE_PATH="coverage/pythonCode$calculator.coverage" NAME="calculator Coverage Results" MODIFIED="1564477502581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Documents/Tencent Files/977089471/FileRecv" />
+    <SUITE FILE_PATH="coverage/pythonCode$test.coverage" NAME="test Coverage Results" MODIFIED="1563345397733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonCode$Unittests_for_first_case_FirstCase_test_login_pass_error.coverage" NAME="Unittests for first_case.FirstCase.test_login_pass_error Coverage Results" MODIFIED="1564630711167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/pythonCode$Unittests_for_unttest_case_FirstCase01.coverage" NAME="Unittests for unttest_case.FirstCase01 Coverage Results" MODIFIED="1564559472625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/pythonCode$Unittests_for_first_case_FirstCase_test_login_code_error.coverage" NAME="Unittests for first_case.FirstCase.test_login_code_error Coverage Results" MODIFIED="1564648707268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/pythonCode$Unittests_for_first_case_FirstCase_test_login_email_error.coverage" NAME="Unittests for first_case.FirstCase.test_login_email_error Coverage Results" MODIFIED="1564630592037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/pythonCode$Unittests_in_frist_ddt_case_py.coverage" NAME="Unittests in frist_ddt_case.py Coverage Results" MODIFIED="1565862128293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/pythonCode$keyword_case.coverage" NAME="keyword_case Coverage Results" MODIFIED="1573199256645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/pythonCode$code01.coverage" NAME="code01 Coverage Results" MODIFIED="1563532799193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/pythonCode$Unittests_in_test01_py.coverage" NAME="Unittests in test01.py Coverage Results" MODIFIED="1563156396000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonCode$Unittests_for_data_test_DataTest_test_add.coverage" NAME="Unittests for data_test.DataTest.test_add Coverage Results" MODIFIED="1565061229816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/pythonCode$Unittests_for_data_test_DataTest.coverage" NAME="Unittests for data_test.DataTest Coverage Results" MODIFIED="1565061143591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/pythonCode$Unittests_in_unttest_case_py.coverage" NAME="Unittests in unttest_case.py Coverage Results" MODIFIED="1564561685908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/TestBDD/features/register.feature">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/xlwt/Row.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1520">
+          <caret line="88" column="17" selection-start-line="88" selection-start-column="17" selection-end-line="88" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="1" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/logs/2019-08-14.log" />
+    <entry file="file://$PROJECT_DIR$/log/logs/2019-08-15.log" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/360zip$Temp/360$0/first_case.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/unittest/suite.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="83" selection-start-line="83" selection-end-line="83" />
+          <folding>
+            <element signature="e#17#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/handle/register_handle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+          <folding>
+            <element signature="e#15#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/logs/2019-08-16.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SeleniumTest/register_code.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="38" column="27" selection-start-line="38" selection-start-column="27" selection-end-line="38" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/run_case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#14#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/unttest_case01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SeleniumTest/read_image.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
+          <folding>
+            <element signature="e#16#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SeleniumTest/register_function.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="67" column="44" selection-start-line="67" selection-start-column="44" selection-end-line="67" selection-end-column="44" />
+          <folding>
+            <element signature="e#16#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/xlutils/copy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/configparser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="1188" column="6" selection-start-line="1188" selection-start-column="6" selection-end-line="1188" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SeleniumTest/demo01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="56" column="13" lean-forward="true" selection-start-line="56" selection-start-column="13" selection-end-line="56" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+            <element signature="e#1053#1090#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/reporttest_login_username_error.png" />
+    <entry file="file://$PROJECT_DIR$/case/reporttest_login_secces.png" />
+    <entry file="file://$PROJECT_DIR$/case/reporttest_login_email_error.png" />
+    <entry file="file://$PROJECT_DIR$/case/reporttest_login_code_error.png" />
+    <entry file="file://$PROJECT_DIR$/test/testCode/code01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="34" lean-forward="true" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/testCode/demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-171">
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/testCode/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-228" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/testCode/test01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-285">
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/testCode/test02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1539">
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/testCode/unittest01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-192" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base/find_element.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/congif/LocalElement.inl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="16" selection-start-column="1" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/unttest_case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/reportfrist.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/business/resister_business.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-855">
+          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/reportfrist_case.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="16" lean-forward="true" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#td#1;n#tr#3;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#td#1;n#tr#4;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#td#1;n#tr#5;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#td#1;n#tr#6;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/unittest/__init__.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="31" column="4" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/logging/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="1372" column="8" selection-start-line="1372" selection-start-column="8" selection-end-line="1372" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/logs/2019-10-14.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/logs/test.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/logs/2019-11-08.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/user_log.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="42" column="26" lean-forward="true" selection-start-line="42" selection-start-column="26" selection-end-line="42" selection-end-column="26" />
+          <folding>
+            <element signature="e#33#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/keywordSelenium/actionMethod.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+          <folding>
+            <element signature="e#14#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/HTMLTestrunner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6707">
+          <caret line="353" selection-start-line="353" selection-end-line="353" />
+          <folding>
+            <element signature="e#3214#3229#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/geckodriver.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/testCode/HTMLTestrunner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="258" column="30" lean-forward="true" selection-start-line="258" selection-start-column="30" selection-end-line="258" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/excel_util.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#26#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/get_code.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/read_inl.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/ShowapiRequest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/data_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="19" column="19" lean-forward="true" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+          <folding>
+            <element signature="e#14#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/first_case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="86" column="57" lean-forward="true" selection-start-line="86" selection-start-column="57" selection-end-line="86" selection-end-column="57" />
+          <folding>
+            <element signature="e#34#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/keyword_case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="62" column="42" lean-forward="true" selection-start-line="62" selection-start-column="42" selection-end-line="62" selection-end-column="42" />
+          <folding>
+            <element signature="e#55#92#0" expanded="true" />
+            <element signature="e#470#506#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/frist_ddt_case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="8" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+          <folding>
+            <element signature="e#57#67#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
